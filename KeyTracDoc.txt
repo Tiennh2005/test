@@ -1,4 +1,4 @@
-#dùng dấu TAb để tạo dotlist. VD WASE2025 \t Key public => '((WASE2025 . "Key public"))
+#dùng dấu TAb để tạo dotlist. VD WASE2025 \t Key public => '((WASE2025 . "Key public")). Tạo trên excel rồi copy 2 cell past vô Github
 WASE2025	Key public
 WASE202a	Key public
 BWF4EYB0F4B4FKFQ	((0 . "W4Y044KQ") (1 . "LK9727R007093") (100 . "BFEBFBFF000306C3"))

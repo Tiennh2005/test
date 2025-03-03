@@ -1,4 +1,4 @@
-Version 2.2 RC2 (4 Feb 2025)
+Version 2.2 RC2 (20250212)
 # Tạo trên excel rồi copy 3 cell past vô Github		
 WASE2025	Public key	
 WASE2025a	Public key	

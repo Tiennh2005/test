@@ -1,7 +1,7 @@
 Version 2.2a RC1 (20250310)
 # Tạo trên excel rồi copy 3 cell past vô Github		
 WASE2025	Public key	
-WASE2025a	Public key	
+WASE2025ad	Public key	
 BWF4EYB0F4B4FKFQ	20250204	((0 . "W4Y044KQ") (1 . "LK9727R007093") (100 . "BFEBFBFF000306C3"))
 0W7DD-9W9X3502_DNCC31MBU24677Z	Private key	((0 "WD-WX52DC3MU47Z" "WDC WD20EZBX-00AYRA0") (1 "6479_A74A_1020_0083." "GIGABYTE GP-AG70S1TB") (2 "01016299e73aee6482bf" "USB  SanDisk 3.2Gen1 USB Device") (100 "07D9930_NC1B267658" "B760M GAMING PLUS WIFI (MS-7D99)") (101 "BFEBFBFF000B0671" "Intel(R) Core(TM) i7-14700KF") (102 "Tien wase" "24 January 2025")) 
 (defun _ghidulieu ()(_MkText p2 GL htxt Wid 90d "C" 1)(_MkText p3 IL1 htxt Wid 90d "C" 3)(_MkText p4 H1 htxt Wid 90d "C" 4)(_MkText p8 cdon htxt Wid 90d "C" 2)(_TAOGOC p9 Gocquay)(_MkText p10 ID 3.0 Wid 0 "MC" 3)(_MkLine p5 p7 #lay 64 nil nil)(_MkLine p0 (mapcar '+ p0 (list 0 (/ (* (- (max (atof GL) (atof IL1)) css) 1000.) TLD))) #lay 5 "DASHED" 0.5))
